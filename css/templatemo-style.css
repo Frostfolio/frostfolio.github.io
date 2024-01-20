@@ -843,7 +843,10 @@ footer .connect-us ul li a:hover {
 		margin-left: 10px;
 	}
 	.navbar-brand{
-		font-size: small;
+		font-size: 20px;
+	}
+	.navbar-nav>li>a {
+		font-size: 10.5px;
 	}
 }
 
