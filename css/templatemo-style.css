@@ -842,7 +842,9 @@ footer .connect-us ul li a:hover {
 		margin-right: 10px;
 		margin-left: 10px;
 	}
-
+	.navbar-brand{
+		font-size: small;
+	}
 }
 
 @media (max-width: 768px){
