@@ -848,6 +848,9 @@ footer .connect-us ul li a:hover {
 	.navbar-nav>li>a {
 		font-size: 10.5px;
 	}
+	.header.active .navbar-nav>li>a {
+		font-size:10.5px;
+	}
 }
 
 @media (max-width: 768px){
